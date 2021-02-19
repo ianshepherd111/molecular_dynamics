@@ -1,0 +1,22 @@
+
+!1 to ~100000
+moves 30000
+
+! ~1E-3/4
+time_step 3E-3
+
+target_temperature 1
+
+
+sigma 1
+epsilon 1
+mass 1
+
+out_no 10
+!write out to the file every "out_no" steps
+
+density 0.1
+cutoff_dist 100
+
+!anderson thermostat
+anderson_freq 1E-2
