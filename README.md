@@ -12,3 +12,8 @@ Code was written in 2016 during my postgraduate masters course and may not compl
 2. Initialise any other variables needed throughout the main program e.g loop counters, summation variables and variables for physical properties.
 3. The main loop of the calculation which updates the positions and velocities of the particles. The positions and velocities of particles were updated after calculating the forces and then using those forces in the Velocity Verlet algorithm.
 4. Output the data of interest e.g. the updated coordinates which could then be visualized in another program.
+
+
+## Video of a stable cluster
+
+[MD video](https://github.com/ianshepherd111/molecular_dynamics/blob/main/md.mp4)
